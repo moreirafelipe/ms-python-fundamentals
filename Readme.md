@@ -10,7 +10,7 @@ For the full 'Intro to Python' course on Microsoft Learn visit: [https://aka.ms/
 
 
 
-## ![arrow_forward](https://github.githubassets.com/images/icons/emoji/unicode/25b6.png) How to Run
+## How to Run
 
 - Clone this repository
 
@@ -23,7 +23,7 @@ For the full 'Intro to Python' course on Microsoft Learn visit: [https://aka.ms/
 
   
 
-### ![wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f527.png)Download and install Python
+### Download and install Python
 
 You can download and install one of the packages bellow according to your operational system:
 
@@ -35,7 +35,7 @@ You can download and install one of the packages bellow according to your operat
 
 
 
-### ![wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f527.png) Installing the Pip package manager
+### Installing the Pip package manager
 
 **Linux (Ubuntu 20.04)**
 
